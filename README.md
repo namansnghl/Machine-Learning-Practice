@@ -7,10 +7,10 @@ The [Titanic dataset](https://www.kaggle.com/competitions/titanic) is a popular 
 Python framework for web apps with dynamic, data-driven visualizations. Simplifies dashboard creation, integrates seamlessly with Python libraries, and offers a declarative syntax for building interactive analytical tools.
 
 With Plotly, you can create this
-![]()
+![Bar Graph](https://github.com/namansnghl/Machine-Learning-Practice/blob/master/Readme_Visuals/Barplot.gif)
 
 or visualize dynamic piecharts
-![]()
+![Pie Graph](https://github.com/namansnghl/Machine-Learning-Practice/blob/master/Readme_Visuals/PieChart.gif)
 
 or even have a scaterplot which can zoom into data point clusters
-![]()
+![Scatter Plot](https://github.com/namansnghl/Machine-Learning-Practice/blob/master/Readme_Visuals/ScatterPlot.gif)
